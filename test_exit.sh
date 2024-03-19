@@ -65,5 +65,5 @@ docker run -it --rm \
  -e NC_URL=$nextcloudserver\
  -e NC_EXIT=true\
  -e NC_SILENT=true\
- juanitomint/nextcloud-client
+ evanshanks/nextcloud-client
  
